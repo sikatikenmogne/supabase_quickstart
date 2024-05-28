@@ -1,16 +1,28 @@
-# supabase_quickstart
+# Supabase User Management Sample App
 
-A new Flutter project.
+This repository contains a sample Flutter application that demonstrates how to set up and use Supabase for user management.
+
+## Overview
+
+The application showcases various features of Supabase, including user registration, authentication, and profile management. It serves as a practical guide for developers looking to integrate Supabase into their Flutter applications.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
+2. Install the necessary Flutter dependencies
+3. Set up your Supabase project and obtain the necessary API keys
+4. Replace the placeholders in the code with your actual API keys
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Documentation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is based on the official Supabase documentation and tutorials. For more detailed information on how to use Supabase with Flutter, please refer to the [official Supabase Flutter tutorial](https://supabase.com/docs/guides/getting-started/tutorials/with-flutter?queryGroups=platform&platform=web).
+
+## Contributing
+
+Contributions are welcome! Please read our contributing guidelines before submitting a pull request.
+
+## License
+
+This project is licensed under the terms of the MIT license.
